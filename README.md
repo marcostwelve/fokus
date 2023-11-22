@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um Webapp para auxiliar com foco no dia-a-dia, com a técnica de pomodoro.
+O Fokus é um Webapp para auxiliar com foco no dia-a-dia, com a técnica de pomodoro.
 Projeto é um treinamenteo prático de Javascript manupulando o DOM da Alura.
 
 ## 🧠 Como utilizar
